@@ -2,7 +2,7 @@
 Date: 1974
 Circle: Solar Cross Foundation
 Event: Space Tapes
-Session: 1
+Session: 2
 Contacts: Hatonn
 Source: Taped Radio Transmission (claimed)
 ---
@@ -15,7 +15,7 @@ It has been a long period of time, since I have had the privilege of extending m
 
 We have spoken many times in your past, about a subject you have called Love. And it has been most rewarding, to witness your thoughts, as you have pursued the various meanings brought to your consciousness. Of course, there remains a vast amount of thought, still available, on this topic. However, at this time, I should like to direct your thoughts into a somewhat different avenue.
 
-Let us think about that most inclusive subject, called The Light. The Light, as it has been described, in many of the texts upon your world, and in conversations and discussions, has seemed to be possessed of many exceptional qualities. We have noted upon many occassions, your various expressions concerning the Light. The Light of the Radiant One. The Light of the Divine. The Light of the Creator—-or whatever other descriptive sources that you visualize the Light emanating from.
+Let us think about that most inclusive subject called The Light. The Light, as it has been described, in many of the texts upon your world, and in conversations and discussions, has seemed to be possessed of many exceptional qualities. We have noted upon many occassions, your various expressions concerning the Light. The Light of the Radiant One. The Light of the Divine. The Light of the Creator—-or whatever other descriptive sources that you visualize the Light emanating from.
 
 As you can see, there is a great deal of confusion about this subject of The Light. Perhaps I may somehow increase your awareness regarding this. When you employ the term 'the Light', perhaps you could visualize it in this way: the Light is of no specific color, and yet, it is All Colors. Whether it be the visualization of the pure white radiance, or however you do visualize it, it's color qualities are very incidental. But you are calling forth, and knowingly or not, invoking the most powerful emanation in Creation. 
 
@@ -35,19 +35,13 @@ I have spoken on numerous occasions about the topic called Love. Can any among y
 
 Would not this Light, then illuminate the darkness, of the outermost reaches, of your minds? Could not your thoughts as well as your actions, be more readily defined, by the illumination of this Light? Would not all that is experienced, be that much clearer in your perceptions?
 
-It is unfortunate that, like so many of the terms in your language, that this word 'the Light' has been bantered about so often and misused. For, people of Earth, my brothers and sisters - had the realization permeated your awareness, of the nature of that which you were discussing, and truly been born into the essence of your awareness - you would have been profoundly influenced, in even the manner in which you have treated this word. 
+It is unfortunate that, like so many of the terms in your language, that this word 'the Light' has been bantered about so often and misused. For people of Earth, my brothers and sisters: had the realization permeated your awareness of the nature of that which you were discussing and truly been born into the essence of your awareness, you would have been profoundly influenced in even the manner in which you have treated this word. 
 
-In those days, which lie ahead in your individual futures, would not the very magnificence of the use of the Light, bring about a new condition of being, as it is employed? You have heard from another brother, that it was a peculiar type of Light, which emanated from your planetary Sun, which brought about the malfunctioning of natural laws upon your world. And it was only by the correct application of a Light-substance of different, and enhanced quality, that this other form of radiation could be nullified? 
+In those days, which lie ahead in your individual futures, would not the very magnificence of the use of the Light bring about a new condition of being as it is employed? You have heard from another brother that it was a peculiar type of Light which emanated from your planetary Sun, which brought about the malfunctioning of natural laws upon your world. And it was only by the correct application of a Light-substance of different and enhanced quality that this other form of radiation could be nullified? 
 
-If, my brothers and sisters, the Light has such potentials in its employment, do you wish to continue using it so casually?
+If, my brothers and sisters, the Light has such potentials in its employment, do you wish to continue using it so casually? Would you not rather include it, in its true functions, in your every-day activities? You need not be concerned as to the functions of the Light. For the Light, my brothers and sisters, needs merely to be called forth. Its functions are inherent, in itself. The Light will always operate, and function, in the correct manner. It cannot be refused, in any way. A negative quality of the Light, does not exist. For it could not then be The Light, but would be some other emanation instead. We have noted your great yearnings, to achieve a more refined degree of awareness You have noted that I have not used the term "elevated", but merely the term "a more refined."
 
-Would you not rather include it, in its true functions, in your every-day activities?
-
-You need not be concerned as to the functions of the Light. For the Light, my brothers and sisters, needs merely to be called forth. It's functions are inherent, in itself. 
-
-The Light will always operate, and function, in the correct manner. It cannot be refused, in any way. A negative quality of the Light, does not exist. For it could not then be The Light, but would be some other emanation instead. We have noted your great yearnings, to achieve a more refined degree of awareness. (You have noted that I have not used the term 'elevated', but merely the term 'a more refined'.)
-
-Consider these thoughts, for your yearnings. For this you approach the Path, that is illuminated by, The Light. Should you choose to traverse a path that is different, that is of course, your decision. But I, knowing of the innermost yearnings of those upon your planet, cannot conceive of any direction or pursuit that you would desire other than that which is True, that which *is*.
+Consider these thoughts for your yearnings. For this you approach the Path, that is illuminated by, The Light. Should you choose to traverse a path that is different, that is of course, your decision. But I, knowing of the innermost yearnings of those upon your planet, cannot conceive of any direction or pursuit that you would desire other than that which is True, that which *is*. 
 
 I have submitted these thoughts, with your permission, to illumine your thought processes with this Light, that we have spoken of. For, my beloved Ones, you have great need to employ this Light. As the planet upon which you reside at this time passes through the great period of transition. 
 
