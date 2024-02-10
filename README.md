@@ -6,7 +6,11 @@ Akasha is a unified repository of all channelling in the lineage of the Confeder
 
 The most imporant thing is to have a discrete way of designating each channelling session. More than one session can occur on a given day, and often there are events or collections to which the session number refers. 
 
-> year / month / day / circle / series / session number
+> circle / series / session number / year / month / day
+
+e.g.
+
+> HARC / Fifth Channelling Intensive / Session 5 / 2023 / 11 / 04
 
 ## Which channellings count in this lineage
 
