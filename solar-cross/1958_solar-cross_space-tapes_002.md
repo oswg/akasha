@@ -13,6 +13,8 @@ Channels: Miller
 
 The last of the original Galaxy series, is considered by many to be the most stirring discourse in the Solar Cross Library, to the present time. Although narrated by Monka, the main proclamation is given by the great spiritual being known as Eesu (Jesus). It is with deep reverance that we present at this time Eesu and Monka discussing Universal Vibration.
 
+## Channelled Message
+
 _(Richard channelling)_
 
 Greetings, O children of the Light! **I am Monka**. My little talk at this time concerns a topic known as Universal Vibration. 

@@ -9,6 +9,8 @@ Channels: Miller
 
 # Monka on the Halls of Grandeur
 
+_(Richard channelling)_
+
 Greetings, in the Light of Our Infinite One. I am Monka. 
 
 That which I would speak with you about is entitled the Halls of Grandeur. The Halls of Grandeur refers to that environment in which all awareness wends its way from its dim beginnings in that which you call antiquity until its eventual at-oneness in the presence of that which we shall call
