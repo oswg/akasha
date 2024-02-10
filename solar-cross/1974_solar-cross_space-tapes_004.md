@@ -2,12 +2,14 @@
 Date: 1974
 Circle: Solar Cross Foundation
 Event: Space Tapes
-Session: 2
+Session: 4
 Contacts: Hatonn
 Source: Taped Radio Transmission (claimed)
 ---
 
 # The Light of the Radiant One
+
+_(Richard channelling)_
 
 Greetings in the Light of Our Radiant One. **I am Hatonn**. 
 
@@ -43,7 +45,7 @@ If, my brothers and sisters, the Light has such potentials in its employment, do
 
 Consider these thoughts for your yearnings. For this you approach the Path, that is illuminated by, The Light. Should you choose to traverse a path that is different, that is of course, your decision. But I, knowing of the innermost yearnings of those upon your planet, cannot conceive of any direction or pursuit that you would desire other than that which is True, that which *is*. 
 
-I have submitted these thoughts, with your permission, to illumine your thought processes with this Light, that we have spoken of. For, my beloved Ones, you have great need to employ this Light. As the planet upon which you reside at this time passes through the great period of transition. 
+I have submitted these thoughts, with your permission, to illumine your thought processes with this Light, that we have spoken of. For, my beloved ones, you have great need to employ this Light. As the planet upon which you reside at this time passes through the great period of transition. 
 
 Use the Light, so wisely. Employ it often. Your beings will become all the more radiant, by this usage. And perhaps, my brothers and sisters, that which you anticipate as a period of great difficulty, will merely become a period of great illumination. It all depends, does it not, on how you appraise it?
 

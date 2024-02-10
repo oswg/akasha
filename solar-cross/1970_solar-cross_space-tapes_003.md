@@ -2,12 +2,12 @@
 Date: 1970
 Circle: Solar Cross Foundation
 Event: Space Tapes
-Session: 1
+Session: 3
 Contacts: Monka
 Channels: Miller
 ---
 
-# The Halls of Grandeur
+# Monka on the Halls of Grandeur
 
 Greetings, in the Light of Our Infinite One. I am Monka. 
 

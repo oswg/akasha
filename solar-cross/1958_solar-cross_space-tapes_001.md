@@ -9,21 +9,25 @@ Channels: Miller
 
 # A Solar Tour by Monka
 
+## Introduction from the original recording
+
+Friends, the following discourse, titled "A Solar Tour", is given by a great
+Space Being, whose residence is on the planet Hussar, or in our language, Mars. 
+
+This one, who is one of the most widely known beings from another planet, is
+known as Mon-ka. We believe you will find this talk interesting, informative,
+and thought-provoking. It is our honor to present at this time: Monka.
+
+## Channelled Message
+
 _(Richard channelling)_
 
-Greetings in the Light of Our Radiant One. **I am Monka**.
+Greetings in the Light of Our Radiant One. **I am Monka**. 
 
-At this time, I shall conduct you, on a tour of our solar system. As if all of
-you were present aboard one of our craft. 
-
-Leave your planet's surface, and our craft gradually spirals away, towards the
-light of this system, the Sun.
+At this time, I shall conduct you on a tour of our solar system as if all of you were present aboard one of our craft. Leave your planet's surface, and our craft gradually spirals away towards the light of this system, the Sun.
 
 The first object which draws our atttention, is the planet known to your
-planet as Mercury. 
-
-As we draw closer to this one, we notice the great contrast between Light and
-Darkness. We view its rotation: burningly hot on one side, and bitterly cold on
+planet as Mercury. As we draw closer to this one, we notice the great contrast between Light and Darkness. We view its rotation: burningly hot on one side, and bitterly cold on
 the other. This planet, my brothers, we use as an observation and experimental
 station, due to its close proximity to our Sun, it's proved most valuable. There
 is no native life on this planet. The only life exhibited is from our peoples'
