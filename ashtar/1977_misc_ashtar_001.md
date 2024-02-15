@@ -1,6 +1,6 @@
 ---
 Date: 1977-11-26
-Circle: Ashtar Galactic Command
+Circle: Unknown
 Event: Southern Television Broadcast Interruption
 Session: 1
 Contacts: Vrillon
