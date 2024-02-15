@@ -1,8 +1,8 @@
 ---
 Date: 1958
 Circle: Solar Cross Foundation
-Event: Space Tapes
-Session: 1
+Event: Galaxy Series
+Session: 14
 Contacts: Monka
 Channels: Miller
 ---
