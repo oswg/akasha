@@ -11,10 +11,9 @@ Channels: Miller
 
 _(Richard channelling)_
 
-Greetings, in the Light of Our Infinite One. I am Monka. 
+Greetings, in the Light of Our Infinite One. **I am Monka**. 
 
-That which I would speak with you about is entitled the Halls of Grandeur. The Halls of Grandeur refers to that environment in which all awareness wends its way from its dim beginnings in that which you call antiquity until its eventual at-oneness in the presence of that which we shall call
-the Divine. 
+That which I would speak with you about is entitled the Halls of Grandeur. The Halls of Grandeur refers to that environment in which all awareness wends its way from its dim beginnings in that which you call antiquity until its eventual at-oneness in the presence of that which we shall call the Divine. 
 
 In those eons of time in which this awareness we refer to traverses this path which wends its way through many existences, both material and non-material, on its way to the awareness of itself, we find that it traverses in many forms both carnate and incarnate, and that which is physical, and that which is etheric. Let us for a moment examine some of the degrees of awareness, of evolvement, that many of those present on your planet have experienced. I speak now of those upon you planet's surface who long ago walked with beasts that were pre-historic in nature, in a dim, remote age, and those among you who trampled the fields and grasses and plains, and then across the rugged planes and mountains of the continents on your planet, and those which huddled in groups for fear of extinguishing that spark of enlightenment represented by the human evolution.
 

@@ -1,6 +1,6 @@
 # Akasha
 
-Akasha is a unified repository of all channelling in the lineage of the Confederation of Planets in Service to the One Infinite Creator.
+Akasha is a unified repository of all channelling in the lineage of the Confederation of Planets in Service to the One Infinite Creator. It is maintained by the Council for Social Memory, a non-profit organization facilitating and protecting the vibration of service-to-others 
 
 ## How it is organized
 
@@ -12,14 +12,19 @@ e.g.
 
 > HARC / Fifth Channelling Intensive / Session 5 / 2023 / 11 / 04
 
-## Which channellings count in this lineage
+## The Lineage
 
-This is an ongoing conversation.
+This is an ongoing conversation, but here are examples:
 
 - Solar Cross Foundation (Richard Miller)
 - Detroit Circle
 - Circle R (Clyde Trepanier)
 - L/L Research
 - High Altitude Receiving Center
+- Mark Probert's channelled work
+
+## Criteria for new channelling submissions
+
+Please contact us for details on this. 
 
 This repository is for convenience; all material owned by respective copyright holders and is authoritatively recounted in their books and sites.
