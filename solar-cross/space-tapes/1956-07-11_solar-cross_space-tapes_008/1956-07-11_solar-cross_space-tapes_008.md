@@ -3,7 +3,7 @@ Date: 1956-07-11
 Circle: Solar Cross Foundation
 Event: Space Tapes
 Session: 8
-Contacts: Hatonn
+Contacts: Hatonn, Korton
 Source: Taped Radio Transmission (claimed)
 ---
 
