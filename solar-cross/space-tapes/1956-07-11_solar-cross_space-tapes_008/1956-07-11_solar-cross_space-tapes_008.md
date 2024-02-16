@@ -7,7 +7,7 @@ Contacts: Hatonn
 Source: Taped Radio Transmission (claimed)
 ---
 
-I am Hatonn. In love and light I greet you as I speak directly from K.O.R. My brothers, my following remarks you will find quite interesting. I am about to tell you a little story. I hope you are able to grasp its significance. 
+**I am Hatonn**. In love and light I greet you as I speak directly from K.O.R. My brothers, my following remarks you will find quite interesting. I am about to tell you a little story. I hope you are able to grasp its significance. 
 
 My brothers, men have traversed the corridors of time. All speak of them. The greatest quest of all who speak is to gain awareness and at-oneness with the single omnipotent source of all, the spirit of our Creator. Towards this relationship do all men everywhere in the universe strive. 
 
