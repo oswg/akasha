@@ -1,7 +1,7 @@
 ---
 Date: 1977-11-26
 Circle: Unknown
-Event: Southern Television Broadcast Interruption
+Event: The Southern Television Interruption of 1977
 Session: 1
 Contacts: Vrillon
 Source: Television Broadcast in Southern England
