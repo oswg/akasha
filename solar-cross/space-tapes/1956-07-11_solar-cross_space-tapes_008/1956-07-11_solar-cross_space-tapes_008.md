@@ -1,5 +1,5 @@
 ---
-Date: 1956
+Date: 1956-07-11
 Circle: Solar Cross Foundation
 Event: Space Tapes
 Session: 8
