@@ -1,0 +1,3 @@
+# The Solar Cross Foundation
+
+This organization formed around Richard T. Miller, a UFO contactee, who captured several messages over short wave radio from Confederation contacts. He then became a conscious channel, recording taped channelled messages. These messages were released in several series of tapes between the late 50s and the late 80s. The messages were compiled into a volume titled "Star Wards."

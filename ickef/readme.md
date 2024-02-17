@@ -1,0 +1,5 @@
+# The Inner Circle Kethra E'Da Foundation
+
+A foundation established in 1945 by trance medium Mark Probert. Probert was recognized as a medium by Meade Layne of the Borderland Sciences Research Society, who helped assist him in his development. Gradually a set of teachers emerged who expressed the desire to use him as their means of communicating with the world. The sessions at which these spirit entities spoke were recorded, transcribed, and published by the foundation.
+
+Probert died in 1969, and since then the foundation has preserved tape recordings of his trance lectures and circulated copies of those that were published. As of 1992 there were three centers associated with the foundation where people gathered to listen to the Probert tapes. The foundation may be contacted at P.O. Box 121722, San Diego, CA 92112.

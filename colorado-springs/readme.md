@@ -1,0 +1,5 @@
+# The Colorado Springs Circle
+
+The founding members of the Other Selves Working Group formed this circle in the throes of the pandemic in 2020 to begin creating a channeling circle. In 2021 they met for their first channeling intensive in Colorado Springs, Colorado, quickly making contact with Laitos, the Confederation’s designated social memory complex for training instruments. The circle quickly graduated to contact with Q’uo, and they met at two later intensives in 2022.
+
+The circle was disbanded after the third intensive with Dartez and Norby’s departure from the Working Group. Stephen and Jeremy are constituting a new intensive circle presently that will draw on Working Group members, allowing them to hold energy in the circle, offer questions to Q’uo, and start feeling out the possibility of becoming instruments themselves.
