@@ -4,7 +4,7 @@
 
 Akasha is a unified repository of all channelling in the lineage of the Confederation of Planets in Service to the One Infinite Creator. It is maintained by the [Council for Social Memory](https://councilforsocialmemory.org), a non-profit organization dedicated to resourcing the preservation of service-to-others vibratory contact with the Confederation.
 
-## The Lineage
+## The Confederation Lineage
 
 _I'm still researching the history of pre-LLR Confederation messages, so this is all subject to revision._
 
