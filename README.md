@@ -28,6 +28,7 @@ One of the reasons to demonstrate the continuity and consistency of the lineage 
 - All messages are peer reviewed prior to inclusion here. Polarity and accuracy are the chief concerns.
 - Messages must be consonant broadly with the Law of One and Confederation philosophy
 - Fear-based messages focusing on apocalyptic scenarios and drastic suggestions for life changes are not accepted
+- Channelled work is evaluated on the basis of the entire circle involved in bringing the message through. No celebrity instruments!   
 - Messages are obtained using Rueckertian Protocols
   - At least three participants working in the same physical space which has been ritualistically cleared
   - Tuning and challenging performed competently and sincerely
