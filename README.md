@@ -1,6 +1,6 @@
 # Akasha
 
-Akasha is a unified repository of all channelling in the lineage of the Confederation of Planets in Service to the One Infinite Creator. It is maintained by the Council for Social Memory, a non-profit organization facilitating and protecting the vibration of service-to-others 
+Akasha is a unified repository of all channelling in the lineage of the Confederation of Planets in Service to the One Infinite Creator. It is maintained by the [Council for Social Memory](https://councilforsocialmemory.org), a non-profit organization facilitating and protecting the vibration of service-to-others 
 
 ## How it is organized
 
