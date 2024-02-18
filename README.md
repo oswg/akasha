@@ -2,19 +2,7 @@
 
 # Akasha
 
-Akasha is a unified repository of all channelling in the lineage of the Confederation of Planets in Service to the One Infinite Creator. It is maintained by the [Council for Social Memory](https://councilforsocialmemory.org), a non-profit organization facilitating and protecting the vibration of service-to-others 
-
-## How it is organized
-
-Each circle is designated in a sub-folder to the root. Within each circle are one or more events or collections. Within those event directories are directories for each discrete event, named like:
-
-> YYYY-MM-DD_CIRCLE-NAME_EVENT-NAME_SESSION-NO
-
-For example, the Oorkas via Weiland session from early 2004 would be referenced with a filename like:
-
-> 2024-01-27_richmond_ccf_009
-
-And within that folder would be all media pertaining to the session, whenever possible named exactly the same except with the appropriate extension.
+Akasha is a unified repository of all channelling in the lineage of the Confederation of Planets in Service to the One Infinite Creator. It is maintained by the [Council for Social Memory](https://councilforsocialmemory.org), a non-profit organization dedicated to resourcing the preservation of service-to-others vibratory contact with the Confederation.
 
 ## The Lineage
 
@@ -22,11 +10,13 @@ _I'm still researching the history of pre-LLR Confederation messages, so this is
 
 The Confederation lineage begins roughly with works like Oahspe and the channelling of Mark Probert's Inner Circle Kethra E'Da Foundation. With the popularity of George Van Tassel's UFO inspired work, we reach a fork in the lineage. Robert Short led a breakaway channelling group that eventually became Thelma B. Terrill's "Ashtar Galactic Command" organization. This branch of the lineage focusing on fear-based, apocalyptic messages we consider to be irretrievably compromised, and there are many instruments and circles that we could list here. 
 
-Meanwhile, a Detroit scene inspired by Van Tassel's work spawned a second branch that focused on a deepening of the spiritual message. This includes Clyde Trepanier's channelling that would consolidate under the Circle R aegis, Richard T. Miller's Solar Cross Foundation, and the so-called Detroit Circle of Walt Rogers and Hal Price. These circles operated between the mid-50s and late 80s, and while there is some fear-based messaging in their work, it is clear to this author that a higher perspective was emerging. This perspective was inherited by the Louisville-based Eftspan Foundation, which included Carla Rueckert and Don Elkins. When those two broke from Eftspan and continued channelling work that eventually included Jim McCarty, we encounter the L/L Research organization and their fifty years of channelling work. They stabilized the messaging from the Confederation through the sixth density, narrow band, trance contact with Ra.
+Meanwhile, a Detroit scene inspired by Van Tassel's work spawned a second branch that focused on a deepening of the spiritual message. This includes Clyde Trepanier's channelling that would consolidate under the Circle R aegis, Richard T. Miller's Solar Cross Foundation, and the so-called Detroit Circle of Walt Rogers and Hal Price. These circles operated between the mid-50s and late 80s, and while there is some fear-based messaging in their work, it is clear to this author that a higher perspective was emerging. This perspective was inherited by the Louisville-based Eftspan Foundation, which included Carla Rueckert and Don Elkins. When those two broke from Eftspan and continued channelling work that eventually included Jim McCarty, we encounter the [L/L Research](https://llresearch.org) organization and their fifty years of channelling work. They stabilized the messaging from the Confederation through the sixth density, narrow band, trance contact with Ra.
 
-After the passing of Rueckert in 2015, L/L Research started training new instruments for a new channelling circle. Two instruments, one instructor and one student, eventually left the circle to form their own sites for contact with the Confederation. They work with several other seekers under the rubric of the Other Selves Working Group, the creators of this repository, and presently maintain two channelling circles: the High Altitude Receive Center circle that focuses on ongoing communication with the Q'uo principle, and the Richmond Meditation Circle's ongoing contact with several fourth and fifth density social memory complexes. 
+After the passing of Rueckert in 2015, L/L Research started training instruments for a new channelling circle. Senior instruments Jim McCarty and Steve Tyman led the instruction starting in the fall of 2016. In 2018, Tyman left L/L Research, and eventually Jeremy Weiland, another student instrument, left the organization. Most of the remaining instruments now constitute L/L Research's ongoing channelling circles under the supervision of McCarty. 
 
-The Working Group plans to establish a membership-controlled non-profit organization to democratically administer the legacy of this lineage stretching nearly two centuries. The chief aim of such an organization woudl be to exercise responsible stewardship of these messages, offering educational and financial resources for research and practice of the Confederation philosophy. This would also serve as a means to initiate new instruments, found new circles, and keep the vibration behind the messages pure and as tuned as possible.
+Tyman and Weiland joined other ex-volunteers of L/L Research in 2020 to form the [Other Selves Working Group](https://otherselvesworking.group), an experiment in a new model of organizing seekers. The Working Group currently maintains two channelling circles: the [High Altitude Receive Center circle](/harc) that focuses on ongoing communication with the Q'uo principle, and the [Richmond Meditation Circle](/richmond)'s ongoing contact with several fourth and fifth density social memory complexes. 
+
+The Working Group is launching this repository in anticipation of the full establishment of a legitimate, democractic, accountable organization that can unite all seekers in this philosophy, preserve the vibratory lineage of channelled material, admit new channelled work that conforms to the proper protocols and criteria, and resource future seeking projects. The Council for Social Memory is the proposed name for this organization.
 
 ## Provisional criteria for integrating future channelling
 
