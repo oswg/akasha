@@ -4,13 +4,15 @@ Akasha is a unified repository of all channelling in the lineage of the Confeder
 
 ## How it is organized
 
-The most imporant thing is to have a discrete way of designating each channelling session. More than one session can occur on a given day, and often there are events or collections to which the session number refers. 
+Each circle is designated in a sub-folder to the root. Within each circle are one or more events or collections. Within those event directories are directories for each discrete event, named like:
 
-> circle / series / session number / year / month / day
+> YYYY-MM-DD_CIRCLE-NAME_EVENT-NAME_SESSION-NO
 
-e.g.
+For example, the Oorkas via Weiland session from early 2004 would be referenced with a filename like:
 
-> HARC / Fifth Channelling Intensive / Session 5 / 2023 / 11 / 04
+> 2024-01-27_richmond_ccf_009
+
+And within that folder would be all media pertaining to the session, whenever possible named exactly the same except with the appropriate extension.
 
 ## The Lineage
 
@@ -24,8 +26,17 @@ After the passing of Rueckert in 2015, L/L Research started training new instrum
 
 The Working Group plans to establish a membership-controlled non-profit organization to democratically administer the legacy of this lineage stretching nearly two centuries. The chief aim of such an organization woudl be to exercise responsible stewardship of these messages, offering educational and financial resources for research and practice of the Confederation philosophy. This would also serve as a means to initiate new instruments, found new circles, and keep the vibration behind the messages pure and as tuned as possible.
 
-## Criteria for new channelling submissions
+## Provisional criteria for integrating future channelling
 
-Please contact us for details on this. 
+One of the reasons to demonstrate the continuity and consistency of the lineage of Confederation channelling is to begin to better understand how to appraise it. As experience with the vibration of the Confederation has progressed, we have moved beyond certain topics and attitudes.
+
+- Transient topics are minimized. By "transient" we mean "information not directly pertaining to spiritual evolution"
+- All messages are peer reviewed prior to inclusion here. Polarity and accuracy are the chief concerns.
+- Messages are obtained using Rueckertian Protocols
+  - At least three participants
+  - Tuning and challenging performed competently and sincerely
+  - All instruments trained by an experienced instrument
+
+---
 
 This repository is for convenience; all material owned by respective copyright holders and is authoritatively recounted in their books and sites.
