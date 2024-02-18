@@ -1,4 +1,4 @@
-<p align='center'><img src="https://councilforsocialmemory.org/wp-content/uploads/sites/10/2023/04/csm_logo_final.png" width=300)</p>
+<p align='center'><img src="https://councilforsocialmemory.org/wp-content/uploads/sites/10/2023/04/csm_logo_final.png" width=200)</p>
 
 # Akasha
 
