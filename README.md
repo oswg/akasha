@@ -30,10 +30,12 @@ The Working Group plans to establish a membership-controlled non-profit organiza
 
 One of the reasons to demonstrate the continuity and consistency of the lineage of Confederation channelling is to begin to better understand how to appraise it. As experience with the vibration of the Confederation has progressed, we have moved beyond certain topics and attitudes.
 
-- Transient topics are minimized. By "transient" we mean "information not directly pertaining to spiritual evolution"
+- Transient topics are minimized. By "transient" we mean "information not directly pertaining to spiritual evolution."
 - All messages are peer reviewed prior to inclusion here. Polarity and accuracy are the chief concerns.
+- Messages must be consonant broadly with the Law of One and Confederation philosophy
+- Fear-based messages focusing on apocalyptic scenarios and drastic suggestions for life changes are not accepted
 - Messages are obtained using Rueckertian Protocols
-  - At least three participants
+  - At least three participants working in the same physical space which has been ritualistically cleared
   - Tuning and challenging performed competently and sincerely
   - All instruments trained by an experienced instrument
 
