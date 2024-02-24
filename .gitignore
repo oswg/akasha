@@ -1,3 +1,5 @@
 *.mp3
 *.flv
 .DS_Store
+*.aup3
+*.aup3-wal
