@@ -3,6 +3,7 @@ require 'openai'
 # THIS IS THE LATEST ONE
 
 # CIRCLE=richmond DATE=2024-04-14 CONTACT=auxhall EVENT=ccp SESSION=11 ruby ~/Desktop/transcribe.rb
+# CIRCLE=columbus DATE=2025-09-06 CONTACT=oorkas EVENT=ccp SESSION=007 ruby ~/Desktop/transcribe.rb
 
 # Mp3 must be rendered to a file called small.mp3 in path with a very low bitrate
 
