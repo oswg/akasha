@@ -3,6 +3,7 @@
 .DS_Store
 *.aup3
 *.aup3-wal
+*.aup3-shm
 *.WAV
 *.h8prj
 *.zip
